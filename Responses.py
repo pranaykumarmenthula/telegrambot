@@ -13,7 +13,7 @@ def sample_responses(input_text):
         return "Time entho telusaa..."
 
     if user_message in ("hotstar","hotstar cookies","hotstarcookies","hsc",):
-        return "Under Processing"
+        return "https://xpshort.com/APY8DbJ"
 
     if user_message in ("fuck","foff","f*ck","suck",):
         return "No Bad Words please...."
